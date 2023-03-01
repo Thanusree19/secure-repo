@@ -1,5 +1,9 @@
 test
 my new change to different file
+<<<<<<< HEAD
 my test change
+=======
+these are changed files in my repo
+>>>>>>> 8bffbcb1a578c34d4fa14ba727a65714d3b2aec5
 
 hosting error in the name of operation of softwares
